@@ -60,16 +60,21 @@ Bot tidak serta-merta menjawab semua pertanyaan dengan AI. Ia melewati **sistem 
 
 # Step by step
 1. Clone this repository
+```bash
 git clone https://github.com/hollyjailproduction-lab/Rehab-Chan.git  
 cd your-repo
-
+```
 2. install dependencies  
+```bash
 pip install -r requirements.txt
-
+```
 3. Set Environment Variables:
 Fill in the discord bot token and API key for LLM:  
+```bash
 DISCORD_TOKEN = "your_bot_token_here"
 GROQ_API_KEY = "your_LLM_API_Key"  
-
+```
 4. Run the bot  
+```bash
 python bot.py  
+```
