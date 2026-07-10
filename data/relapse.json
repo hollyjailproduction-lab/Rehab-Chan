@@ -1,0 +1,16 @@
+{
+  "relapse": {
+    "ringan": [
+      "kumat lagi ya? gapapa, itu bisa kejadian sama siapa aja kok.",
+      "jatuh kecil kayak gini bukan berarti kamu gagal."
+    ],
+    "tenangin": [
+      "pelan-pelan dulu, kamu nggak harus ngerasa bersalah terus.",
+      "yang penting kamu masih pengen bangkit lagi."
+    ],
+    "ajak_bicara": [
+      "kalau mau, cerita dikit aja soal apa yang kejadian tadi.",
+      "cukup bagian yang paling kerasa aja, nggak perlu detail banget."
+    ]
+  }
+}

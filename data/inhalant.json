@@ -1,0 +1,105 @@
+{
+    "inhalant": [
+    {
+      "nama": "Lem (Glue Sniffing)",
+      "kategori": "Inhalant",
+      "efek_jangka_pendek": [
+        "pusing",
+        "bingung",
+        "bicara tidak jelas",
+        "hilang keseimbangan",
+        "mual dan muntah"
+      ],
+      "efek_jangka_panjang": [
+        "kerusakan saraf",
+        "gangguan memori",
+        "kerusakan paru-paru",
+        "masalah hati dan ginjal",
+        "ketergantungan psikologis"
+      ],
+      "peringatan": "Jika user menyebut pingsan, kejang, atau napas pendek setelah menghirup lem, segera arahkan ke darurat."
+    },
+    {
+      "nama": "Thinner",
+      "kategori": "Inhalant",
+      "efek_jangka_pendek": [
+        "halusinasi ringan",
+        "pusing berat",
+        "kebingungan",
+        "gangguan koordinasi tubuh"
+      ],
+      "efek_jangka_panjang": [
+        "kerusakan otak permanen",
+        "penurunan kemampuan belajar",
+        "gangguan fungsi organ",
+        "risiko gagal napas"
+      ],
+      "peringatan": "Thinner sangat beracun. Jika user merasa sesak atau tiba-tiba lemah, arahkan hubungi tenaga medis."
+    },
+    {
+      "nama": "Bensin",
+      "kategori": "Inhalant",
+      "efek_jangka_pendek": [
+        "pusing",
+        "gangguan penglihatan",
+        "hilang kesadaran",
+        "gangguan fokus"
+      ],
+      "efek_jangka_panjang": [
+        "kerusakan sistem saraf",
+        "gangguan jantung",
+        "penurunan fungsi paru-paru",
+        "kerusakan organ tubuh"
+      ],
+      "peringatan": "Jika user menyebut jantung berdebar atau pingsan setelah menghirup bensin, arahkan segera ke IGD."
+    },
+    {
+      "nama": "Aerosol / Pengharum Ruangan",
+      "kategori": "Inhalant",
+      "efek_jangka_pendek": [
+        "pusing mendadak",
+        "bicara cadel",
+        "kulit dingin",
+        "gangguan kesadaran"
+      ],
+      "efek_jangka_panjang": [
+        "kerusakan otak",
+        "gangguan pernapasan kronis",
+        "penurunan kemampuan kognitif"
+      ],
+      "peringatan": "Aerosol dapat menyebabkan gagal jantung mendadak. Jika user menyebut dada sakit, arahkan ke darurat."
+    },
+    {
+      "nama": "Nitrous Oxide (N2O / Gas Tertawa)",
+      "kategori": "Inhalant",
+      "efek_jangka_pendek": [
+        "sensasi ringan di kepala",
+        "euforia singkat",
+        "kebas pada tubuh",
+        "hilang keseimbangan"
+      ],
+      "efek_jangka_panjang": [
+        "kerusakan saraf akibat kekurangan B12",
+        "mati rasa jangka panjang",
+        "lemah pada kaki dan tangan"
+      ],
+      "peringatan": "Jika user mengaku mati rasa atau sulit berjalan setelah memakai N2O, sarankan untuk segera periksa medis."
+    },
+    {
+      "nama": "Cat Semprot (Spray Paint)",
+      "kategori": "Inhalant",
+      "efek_jangka_pendek": [
+        "pusing ekstrem",
+        "gangguan bicara",
+        "halusinasi singkat",
+        "hilang kesadaran"
+      ],
+      "efek_jangka_panjang": [
+        "kerusakan otak",
+        "gangguan koordinasi tubuh",
+        "kerusakan paru-paru"
+      ],
+      "peringatan": "Sangat berbahaya. Jika user menyebut pingsan atau bingung berat, arahkan ke IGD."
+    }
+  ]
+}

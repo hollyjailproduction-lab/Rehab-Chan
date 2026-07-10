@@ -1,0 +1,101 @@
+{
+    "withdrawal": [
+    {
+      "jenis": "Stimulant (Sabu, Kokain, Alpha-PVP, MDMA)",
+      "gejala_umum": [
+        "kelelahan ekstrem",
+        "tidak ada energi sama sekali",
+        "sulit konsentrasi",
+        "tidur terus atau insomnia",
+        "mood turun drastis",
+        "gelisah",
+        "nafsu makan meningkat",
+        "sulit merasa senang"
+      ],
+      "durasi_umum": "Beberapa hari sampai 1–2 minggu tergantung frekuensi pemakaian.",
+      "hal_yang_perlu_dihindari": [
+        "mengonsumsi kafein berlebihan",
+        "tetap terjaga terlalu lama",
+        "menggunakan zat lagi untuk 'mengangkat mood'"
+      ],
+      "peringatan": "Jika user merasa depresi berat, kehilangan kendali, atau ada keinginan menyakiti diri, arahkan ke layanan darurat 119 atau BNN 184."
+    },
+    {
+      "jenis": "Opioid (Heroin, Fentanyl, Kodein, Oxy, U-47700)",
+      "gejala_umum": [
+        "nyeri badan",
+        "menggigil atau berkeringat",
+        "mual dan diare",
+        "gelisah berat",
+        "muntah",
+        "insomnia",
+        "kram otot",
+        "mata berair dan hidung meler"
+      ],
+      "durasi_umum": "Biasanya 3–7 hari, dengan sisa gejala bisa bertahan 1–2 minggu.",
+      "hal_yang_perlu_dihindari": [
+        "menggunakan opioid kembali untuk 'menghentikan sakau'",
+        "campur obat tanpa pengawasan medis",
+        "aktivitas fisik berat saat tubuh lemah"
+      ],
+      "peringatan": "Withdrawal opioid bisa sangat berat tapi jarang mematikan. Jika user mengalami dehidrasi berat, napas tidak stabil, atau hampir pingsan, arahkan segera ke IGD."
+    },
+    {
+      "jenis": "Benzodiazepine (Xanax, Alprazolam, Clonazepam, RC Benzo)",
+      "gejala_umum": [
+        "cemas ekstrem",
+        "gemetar",
+        "sulit tidur",
+        "kepala ringan",
+        "sensitif terhadap suara dan cahaya",
+        "detak jantung cepat",
+        "perasaan seperti akan pingsan"
+      ],
+      "durasi_umum": "Bisa berlangsung dari beberapa hari sampai beberapa minggu tergantung dosis dan lamanya pemakaian.",
+      "hal_yang_perlu_dihindari": [
+        "berhenti mendadak tanpa pengawasan medis",
+        "campur alkohol atau depresan lain",
+        "menggunakan dosis besar untuk 'menenangkan diri'"
+      ],
+      "peringatan": "Withdrawal benzo bisa berbahaya dan berisiko kejang. Jika user menyebut gejala berat, arahkan ke tenaga medis secepatnya."
+    },
+    {
+      "jenis": "Ganja (Cannabis)",
+      "gejala_umum": [
+        "gampang marah atau gelisah",
+        "sulit tidur",
+        "mimpi intens atau buruk",
+        "nafsu makan turun",
+        "kepala terasa kosong",
+        "sedikit mual",
+        "cemas ringan"
+      ],
+      "durasi_umum": "Biasanya 3–14 hari, dengan beberapa gejala emosional bisa lebih lama.",
+      "hal_yang_perlu_dihindari": [
+        "menggunakan ganja kembali untuk 'memperbaiki mood'",
+        "isolasi diri terlalu lama",
+        "kafein berlebihan bila sensitif"
+      ],
+      "peringatan": "Withdrawal ganja tidak berbahaya secara fisik, tetapi bisa berat secara emosional. Jika user merasa panik atau tidak stabil, arahkan untuk mencari dukungan."
+    },
+    {
+      "jenis": "Alkohol",
+      "gejala_umum": [
+        "gelisah",
+        "tangan gemetar",
+        "keringat berlebih",
+        "mual",
+        "tidak bisa tidur",
+        "jantung terasa cepat",
+        "kecemasan"
+      ],
+      "durasi_umum": "Biasanya 2–7 hari, tapi gejala ringan bisa bertahan 1–2 minggu.",
+      "hal_yang_perlu_dihindari": [
+        "berhenti mendadak jika pemakaian berat",
+        "minum alkohol 'sedikit saja' untuk mengurangi gejala",
+        "aktivitas berat tanpa makan cukup"
+      ],
+      "peringatan": "Withdrawal alkohol bisa berbahaya. Jika user menyebut halusinasi, kebingungan berat, atau kejang, arahkan ke layanan darurat 119 atau IGD."
+    }
+  ]
+}

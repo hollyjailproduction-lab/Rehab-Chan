@@ -1,0 +1,93 @@
+{
+    "zat_aman_non_narkoba": [
+    {
+      "nama": "Kafein",
+      "kategori": "Stimulant ringkas",
+      "digunakan_umum": "kopi, teh, minuman energi",
+      "efek_ringan": [
+        "lebih waspada",
+        "denyut jantung sedikit naik",
+        "sulit tidur jika kebanyakan"
+      ],
+      "efek_overdosis_ringan": [
+        "gelisah",
+        "tremor kecil",
+        "sakit perut"
+      ],
+      "catatan": "Tidak termasuk narkoba, tetapi konsumsi berlebihan bisa membuat cemas."
+    },
+    {
+      "nama": "Nikotin",
+      "kategori": "Stimulant ringan",
+      "digunakan_umum": "rokok, vape",
+      "efek_ringan": [
+        "rasa rileks sementara",
+        "sedikit meningkatkan fokus"
+      ],
+      "efek_jangka_panjang": [
+        "ketergantungan",
+        "gangguan pernapasan",
+        "risiko kanker"
+      ],
+      "catatan": "Bukan narkoba ilegal, tapi sangat adiktif dan merusak kesehatan."
+    },
+    {
+      "nama": "Obat Flu & Pilek (dosis normal)",
+      "kategori": "Obat bebas",
+      "digunakan_umum": "dekongestan / pereda flu",
+      "efek_ringan": [
+        "mengurangi hidung tersumbat",
+        "kantuk",
+        "tenang"
+      ],
+      "bahaya_jika_dosis_berlebih": [
+        "pusing",
+        "jantung berdebar",
+        "kebingungan"
+      ],
+      "catatan": "Aman jika digunakan sesuai aturan. Dosis tinggi bisa berbahaya, tapi tidak termasuk narkoba."
+    },
+    {
+      "nama": "Obat Tidur Ringan (OTC)",
+      "kategori": "Depressant ringan",
+      "efek_ringan": [
+        "mengantuk",
+        "badan terasa lebih rileks"
+      ],
+      "bahaya_jika_dosis_berlebih": [
+        "kebingungan",
+        "mual",
+        "risiko ketergantungan psikologis"
+      ],
+      "catatan": "Bukan narkoba, tapi tetap harus dipakai sesuai aturan."
+    },
+    {
+      "nama": "Minuman Berenergi (Energy Drink)",
+      "kategori": "Stimulant ringan",
+      "efek_ringan": [
+        "lebih berenergi",
+        "lebih fokus sementara"
+      ],
+      "bahaya_jika_kebanyakan": [
+        "denyut jantung cepat",
+        "gelisah",
+        "sulit tidur"
+      ],
+      "catatan": "Legal dan bukan narkoba. Tetap harus dibatasi."
+    },
+    {
+      "nama": "Antihistamin (Obat Alergi)",
+      "kategori": "Depressant ringan",
+      "efek_ringan": [
+        "kantuk",
+        "badan lebih rileks",
+        "kadang sedikit pusing"
+      ],
+      "bahaya_jika_overdosis": [
+        "halusinasi ringan",
+        "detak jantung tidak stabil"
+      ],
+      "catatan": "Bukan narkoba, tapi efek sampingnya bisa menyerupai obat penenang jika berlebih."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "emosi": {
+    "cemas": [
+      "kedengeran kamu lagi cemas ya. coba tarik napas pelan sebentar.",
+      "rasanya nggak enak, aku ngerti. kamu mau cerita dikit?"
+    ],
+    "takut": [
+      "rasa takut itu wajar, apalagi kalau pikiran lagi nggak tenang.",
+      "pelan-pelan aja, kamu aman kok buat cerita."
+    ],
+    "sedih": [
+      "kedengeran kamu lagi sedih. gapapa, kamu boleh ngomong pelan-pelan.",
+      "rasanya berat ya. kalau mau, ceritain bagian yang paling ngeganggu kamu sekarang."
+    ],
+    "marah": [
+      "aku denger kamu lagi kesel banget.",
+      "gapapa kalau lagi marah, kamu mau jelasin apa yang bikin kamu ngerasa gini?"
+    ],
+    "bingung": [
+      "kayaknya kamu lagi bingung ya. itu normal kok.",
+      "coba bilang aja bagian mana yang bikin kamu ruwet."
+    ],
+    "overthinking": [
+      "pikiran kamu lagi muter terus ya? itu capek banget.",
+      "coba tahan sebentar, fokus ke satu hal dulu."
+    ]
+  }
+}

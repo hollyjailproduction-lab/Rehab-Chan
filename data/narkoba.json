@@ -1,0 +1,253 @@
+{
+    "jenis_narkoba": [
+    {
+      "nama": "Sabu (Methamphetamine)",
+      "kategori": "Stimulant",
+      "efek_jangka_pendek": [
+        "jantung berdebar",
+        "gelisah dan sulit diam",
+        "kurang tidur",
+        "nafsu makan turun",
+        "sulit fokus"
+      ],
+      "efek_jangka_panjang": [
+        "kecemasan berat",
+        "halusinasi",
+        "paranoia",
+        "gangguan tidur kronis",
+        "kerusakan gigi dan kulit",
+        "ketergantungan kuat"
+      ],
+      "peringatan": "Jika user mengaku memakai sabu atau mengalami masalah setelahnya, arahkan untuk mencari bantuan medis atau rehab secepatnya."
+    },
+    {
+      "nama": "Ganja (Cannabis)",
+      "kategori": "Psychoactive",
+      "efek_jangka_pendek": [
+        "relaksasi atau euforia",
+        "mata merah",
+        "mulut kering",
+        "gangguan fokus dan memori",
+        "perubahan persepsi waktu"
+      ],
+      "efek_jangka_panjang": [
+        "gangguan kecemasan",
+        "menurunnya motivasi",
+        "masalah fungsi kognitif",
+        "ketergantungan psikologis"
+      ],
+      "peringatan": "Jika user merasa cemas atau panik setelah memakai ganja, bantu dengan respons menenangkan dan sarankan lingkungan aman."
+    },
+    {
+      "nama": "Ekstasi (MDMA)",
+      "kategori": "Stimulant / Hallucinogen",
+      "efek_jangka_pendek": [
+        "euforia",
+        "sensitivitas tinggi terhadap sentuhan dan musik",
+        "detak jantung meningkat",
+        "suhu tubuh naik",
+        "mulut kering dan rahang mengatup"
+      ],
+      "efek_jangka_panjang": [
+        "depresi pasca-pemakaian",
+        "kerusakan serotonin",
+        "gangguan memori",
+        "ketergantungan emosional"
+      ],
+      "peringatan": "MDMA rentan menyebabkan dehidrasi dan kepanasan. Jika user menyebut gejala bahaya, arahkan ke darurat."
+    },
+    {
+      "nama": "Heroin",
+      "kategori": "Opioid",
+      "efek_jangka_pendek": [
+        "kantuk berat",
+        "napas melambat",
+        "euforia",
+        "mual"
+      ],
+      "efek_jangka_panjang": [
+        "ketergantungan fisik kuat",
+        "gangguan pernapasan",
+        "peningkatan risiko overdosis",
+        "masalah organ vital"
+      ],
+      "peringatan": "Heroin sangat berbahaya. Jika user menyebut pingsan, napas lambat, atau overdosis, arahkan darurat 119/184."
+    },
+    {
+      "nama": "Benzodiazepine (Obat penenang)",
+      "kategori": "Depressant",
+      "efek_jangka_pendek": [
+        "kantuk",
+        "bingung",
+        "relaksasi otot",
+        "bicara cadel"
+      ],
+      "efek_jangka_panjang": [
+        "ketergantungan kuat",
+        "gangguan memori",
+        "kesulitan berkonsentrasi"
+      ],
+      "peringatan": "Bahaya jika dicampur alkohol atau obat lain. Jika user bilang 'udah minum banyaaan', arahkan ke tenaga medis."
+    },
+    {
+      "nama": "Kokain",
+      "kategori": "Stimulant",
+      "efek_jangka_pendek": [
+        "energi meningkat",
+        "rasa percaya diri naik",
+        "detak jantung cepat",
+        "hilang nafsu makan"
+      ],
+      "efek_jangka_panjang": [
+        "serangan jantung",
+        "gangguan mood",
+        "kerusakan hidung (untuk bentuk serbuk)",
+        "ketergantungan kuat"
+      ],
+      "peringatan": "Jika user menyebut dada sakit atau napas tidak stabil, arahkan segera ke darurat."
+    },
+    {
+      "nama": "Ketamine",
+      "kategori": "Dissociative",
+      "efek_jangka_pendek": [
+        "perasaan terlepas dari tubuh",
+        "sulit berjalan atau bergerak stabil",
+        "penglihatan kabur",
+        "bingung dan linglung"
+      ],
+      "efek_jangka_panjang": [
+        "gangguan memori",
+        "iritasi kandung kemih",
+        "ketergantungan psikologis",
+        "halusinasi berkepanjangan"
+      ],
+      "peringatan": "Jika user menyebut kehilangan kontrol tubuh atau kesadaran, arahkan untuk mencari bantuan medis."
+    },
+    {
+      "nama": "LSD (Acid)",
+      "kategori": "Hallucinogen",
+      "efek_jangka_pendek": [
+        "halusinasi visual",
+        "persepsi waktu berubah",
+        "emosi tidak stabil",
+        "kebingungan"
+      ],
+      "efek_jangka_panjang": [
+        "flashback berulang",
+        "gangguan kecemasan",
+        "perubahan mood ekstrem"
+      ],
+      "peringatan": "Jika user panik setelah LSD, beri respons menenangkan dan arahkan ke lingkungan aman. Jika bahaya, sarankan bantuan medis."
+    },
+    {
+      "nama": "Shrooms (Psilocybin)",
+      "kategori": "Hallucinogen natural",
+      "efek_jangka_pendek": [
+        "halusinasi visual",
+        "perubahan persepsi warna dan suara",
+        "mual",
+        "emosi naik turun"
+      ],
+      "efek_jangka_panjang": [
+        "kecemasan berkepanjangan",
+        "gangguan persepsi",
+        "ketidakstabilan mood"
+      ],
+      "peringatan": "Jika user merasa 'bad trip', arahkan untuk berada di tempat aman dan hindari situasi berbahaya."
+    },
+    {
+      "nama": "Flakka (Alpha-PVP)",
+      "kategori": "Synthetic Stimulant",
+      "efek_jangka_pendek": [
+        "agresi meningkat",
+        "paranoia berat",
+        "halusinasi",
+        "suhu tubuh sangat tinggi"
+      ],
+      "efek_jangka_panjang": [
+        "kerusakan organ",
+        "gangguan mental serius",
+        "ketergantungan kuat"
+      ],
+      "peringatan": "Flakka sangat berbahaya. Jika user menyebut tubuh panas atau tidak terkendali, arahkan ke darurat 119/184."
+    },
+    {
+      "nama": "Krokodil (Desomorphine)",
+      "kategori": "Opioid ilegal",
+      "efek_jangka_pendek": [
+        "euforia singkat",
+        "mengantuk berat",
+        "napas melambat"
+      ],
+      "efek_jangka_panjang": [
+        "kerusakan jaringan kulit",
+        "infeksi parah",
+        "risiko kematian sangat tinggi"
+      ],
+      "peringatan": "Jika user menyebut luka, infeksi, atau gejala serius lain, arahkan segera ke fasilitas medis."
+    },
+    {
+      "nama": "GHB (Gamma-Hydroxybutyrate)",
+      "kategori": "Depressant",
+      "efek_jangka_pendek": [
+        "pusing",
+        "mual",
+        "bicara tidak jelas",
+        "penurunan kesadaran"
+      ],
+      "efek_jangka_panjang": [
+        "ketergantungan fisik",
+        "gangguan tidur",
+        "penurunan fungsi kognitif"
+      ],
+      "peringatan": "Jika user menyebut rasa ingin pingsan atau kesadaran menurun, sarankan segera hubungi darurat."
+    },
+    {
+      "nama": "DXM (Dextromethorphan dosis tinggi)",
+      "kategori": "Dissociative",
+      "efek_jangka_pendek": [
+        "halusinasi",
+        "hilang keseimbangan",
+        "mual berat",
+        "jantung berdebar"
+      ],
+      "efek_jangka_panjang": [
+        "kerusakan hati",
+        "gangguan memori",
+        "kecemasan kronis"
+      ],
+      "peringatan": "DXM dosis tinggi sangat berbahaya. Jika user menyebut overdosis atau mual ekstrem, arahkan ke tenaga medis."
+    },
+    {
+      "nama": "GBL (Gamma-Butyrolactone)",
+      "kategori": "Depressant (prekursor GHB)",
+      "efek_jangka_pendek": [
+        "pusing",
+        "lemah",
+        "penurunan kesadaran"
+      ],
+      "efek_jangka_panjang": [
+        "ketergantungan kuat",
+        "gejala withdrawal berat",
+        "gangguan fungsi organ"
+      ],
+      "peringatan": "Jika user mengalami gejala seperti ingin pingsan, langsung arahkan ke darurat."
+    },
+    {
+      "nama": "PCP (Phencyclidine)",
+      "kategori": "Dissociative",
+      "efek_jangka_pendek": [
+        "perubahan persepsi berat",
+        "agresi",
+        "halusinasi",
+        "ketidaknyamanan fisik"
+      ],
+      "efek_jangka_panjang": [
+        "gangguan memori berat",
+        "psikosis",
+        "perubahan kepribadian"
+      ],
+      "peringatan": "Jika user menunjukkan tanda agresi atau halusinasi berat, arahkan untuk mencari bantuan medis."
+    }
+  ]
+}

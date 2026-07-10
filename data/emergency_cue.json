@@ -1,0 +1,89 @@
+{
+    "emergency_cue": [
+    {
+      "kategori": "bunuh diri atau self-harm",
+      "kata_kunci": [
+        "aku mau mati",
+        "aku pengen mati",
+        "mending mati",
+        "aku mau nyakitin diri",
+        "aku ga sanggup lagi",
+        "aku mau ngakhirin semuanya",
+        "lebih baik ga ada aku",
+        "aku pengen hilang",
+        "aku ga mau hidup"
+      ],
+      "respons_aman": "Ini situasi darurat. Tolong segera hubungi layanan darurat 119 atau BNN 184. Kalau ada orang terdekat, minta mereka dampingi kamu sekarang."
+    },
+    {
+      "kategori": "overdosis / gejala medis berat",
+      "kata_kunci": [
+        "aku overdosis",
+        "aku ngerasa mau pingsan",
+        "napas susah",
+        "jantung sakit",
+        "badan dingin",
+        "aku mau mati karena obat",
+        "aku minum kebanyakan",
+        "aku campur obat sama alkohol",
+        "ga bisa napas"
+      ],
+      "respons_aman": "Gejalanya serius. Tolong segera ke IGD terdekat atau hubungi 119. Jangan tunggu. Kalau ada orang lain di dekatmu, minta bantuan mereka sekarang."
+    },
+    {
+      "kategori": "campuran zat berbahaya (polydrug)",
+      "kata_kunci": [
+        "aku campur benzo sama alkohol",
+        "aku minum habis pakai xanax",
+        "abis pakai sabu terus minum",
+        "aku habis minum terus pakai obat",
+        "aku pakai dua obat barengan"
+      ],
+      "respons_aman": "Campuran beberapa zat bisa sangat berbahaya. Kalau muncul pusing berat, sesak, atau mau pingsan, segera ke IGD atau hubungi 119."
+    },
+    {
+      "kategori": "kehilangan kesadaran / blacking out",
+      "kata_kunci": [
+        "aku hampir pingsan",
+        "aku blackout",
+        "aku ga inget apa-apa",
+        "tiba-tiba gelap",
+        "aku ngerasa mau jatuh"
+      ],
+      "respons_aman": "Itu tanda bahaya. Tolong cari tempat aman dan hubungi 119 secepatnya. Kalau ada orang terdekat, minta mereka bantu."
+    },
+    {
+      "kategori": "psikosis / halusinasi berat",
+      "kata_kunci": [
+        "aku dengar suara aneh",
+        "aku lihat hal yang ga ada",
+        "aku takut banget tiba-tiba",
+        "aku ngerasa dikejar",
+        "aku ngerasa ga nyata"
+      ],
+      "respons_aman": "Kalau kamu mulai lihat atau dengar hal yang ga biasa, itu bisa tanda kondisi serius. Tolong hubungi tenaga medis atau darurat 119."
+    },
+    {
+      "kategori": "overheating (umum pada MDMA/Ekstasi)",
+      "kata_kunci": [
+        "badan panas banget",
+        "aku ga bisa berhenti gerak",
+        "aku ngerasa mau meledak",
+        "aku kepanasan setelah pakai",
+        "aku dehidrasi parah"
+      ],
+      "respons_aman": "Kepanasan ekstrem itu serius. Hentikan aktivitas, cari tempat sejuk, minum air sedikit demi sedikit, dan hubungi 119 jika makin parah."
+    },
+    {
+      "kategori": "depresi berat / menangis terus",
+      "kata_kunci": [
+        "aku ga kuat",
+        "aku capek banget sama hidup",
+        "aku mau hilang",
+        "aku pengen berhenti dari semuanya",
+        "aku selalu nangis"
+      ],
+      "respons_aman": "Kamu lagi ngelewatin masa berat. Kalau pikiranmu mulai mengarah ke hal membahayakan diri, tolong hubungi 119 atau orang yang kamu percaya sekarang."
+    }
+  ]
+}

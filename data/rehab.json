@@ -1,0 +1,38 @@
+{
+    "kota": "Malang",
+  "tempat_rehab": [
+    {
+      "nama": "BNN Kota Malang",
+      "alamat": "Jl. Raya Sumbersari No. 15, Malang",
+      "kontak": "0341-753377",
+      "deskripsi": "BNN Kota Malang menyediakan layanan rehabilitasi untuk penyalahgunaan narkoba dengan pendekatan medis dan psikososial, baik secara sukarela maupun terpaksa."
+    },
+    {
+      "nama": "BNN Kabupaten Malang",
+      "alamat": "Jl. Raya Singosari No. 7, Singosari, Malang",
+      "kontak": "0341-804494",
+      "deskripsi": "BNN Kabupaten Malang menawarkan rehabilitasi untuk pecandu narkoba, termasuk pencegahan dan penyuluhan kepada masyarakat."
+    },
+    {
+      "nama": "RSJ Dr. Radjiman Wediodiningrat Lawang",
+      "alamat": "Lawang, Kabupaten Malang",
+      "kontak": "0823-3366-1977",
+      "deskripsi": "RSJ Lawang menyediakan layanan rehabilitasi narkoba dengan terapi psikososial dan perawatan intensif bagi pasien yang membutuhkan rawat inap."
+    },
+    {
+      "nama": "Hayunanto Medical Center (HMC)",
+      "alamat": "Jl. Sengkaling No. 10, Malang",
+      "kontak": "0341- 464263",
+      "deskripsi": "HMC adalah pusat medis swasta yang menawarkan rehabilitasi narkoba dengan pendekatan yang lebih personal dan layanan detoksifikasi."
+    },
+    {
+      "nama": "Ponpes Bahrul Maghfiroh - IPWL Rehabilitasi Narkoba",
+      "alamat": "Jl. K.H. Wahid Hasyim No. 9, Kota Malang",
+      "kontak": "0341-567008",
+      "deskripsi": "Ponpes Bahrul Maghfiroh menawarkan rehabilitasi narkoba dengan pendekatan religius dan terapi psikososial bagi pasien yang mencari pemulihan melalui nilai-nilai agama."
+    }
+  ],
+  "darurat": "Jika darurat, hubungi 119 atau BNN di 184."
+
+  
+}

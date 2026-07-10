@@ -1,0 +1,79 @@
+{
+    "designer_opioid": [
+    {
+      "nama": "Fentanyl",
+      "kategori": "Synthetic Opioid",
+      "efek_jangka_pendek": [
+        "kantuk berat",
+        "napas melambat",
+        "euforia",
+        "pusing"
+      ],
+      "efek_jangka_panjang": [
+        "ketergantungan ekstrem",
+        "penurunan fungsi pernapasan",
+        "risiko overdosis tinggi"
+      ],
+      "peringatan": "Sangat kuat. Sekedar paparan kecil bisa berbahaya jika melalui kulit atau inhalasi."
+    },
+    {
+      "nama": "Carfentanil",
+      "kategori": "Ultra-Potent Synthetic Opioid",
+      "efek_jangka_pendek": [
+        "napas melemah sangat cepat",
+        "hilang kesadaran",
+        "penurunan suhu tubuh"
+      ],
+      "efek_jangka_panjang": [
+        "ketergantungan ekstrem",
+        "kerusakan otak akibat kurang oksigen",
+        "risiko kematian sangat tinggi"
+      ],
+      "peringatan": "50–100 kali lebih kuat dari fentanyl. Sangat berbahaya bagi manusia."
+    },
+    {
+      "nama": "U-47700 (Pink)",
+      "kategori": "Designer Opioid",
+      "efek_jangka_pendek": [
+        "relaksasi",
+        "mengantuk",
+        "menurunnya rasa sakit"
+      ],
+      "efek_jangka_panjang": [
+        "ketergantungan cepat",
+        "depresi nafas",
+        "risiko overdosis"
+      ],
+      "peringatan": "Sering dijual sebagai obat palsu, dosisnya tidak bisa diprediksi."
+    },
+    {
+      "nama": "W-18",
+      "kategori": "Designer Opioid",
+      "efek_jangka_pendek": [
+        "sedasi kuat",
+        "hilang koordinasi",
+        "napas melambat"
+      ],
+      "efek_jangka_panjang": [
+        "ketergantungan",
+        "gangguan pernapasan kronis"
+      ],
+      "peringatan": "Sangat sedikit data medis resmi; efeknya kuat dan tidak stabil."
+    },
+    {
+      "nama": "AH-7921",
+      "kategori": "Synthetic Opioid",
+      "efek_jangka_pendek": [
+        "rileks",
+        "pusing",
+        "mual"
+      ],
+      "efek_jangka_panjang": [
+        "ketergantungan",
+        "penurunan oksigen",
+        "risiko overdosis"
+      ],
+      "peringatan": "Termasuk opioid RC dengan laporan efek samping berat."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+    "designer_benzo": [
+    {
+      "nama": "Etizolam",
+      "kategori": "Designer Benzodiazepine",
+      "efek_jangka_pendek": [
+        "kantuk berat",
+        "bicara cadel",
+        "bingung",
+        "koordinasi tubuh menurun"
+      ],
+      "efek_jangka_panjang": [
+        "ketergantungan cepat",
+        "gangguan memori",
+        "gejala withdrawal berat"
+      ],
+      "peringatan": "Risiko overdosis meningkat jika dicampur alkohol atau depresan lain."
+    },
+    {
+      "nama": "Flubromazolam",
+      "kategori": "Designer Benzodiazepine",
+      "efek_jangka_pendek": [
+        "sedasi ekstrem",
+        "hilang kontrol tubuh",
+        "gangguan bicara"
+      ],
+      "efek_jangka_panjang": [
+        "amnesia parah",
+        "ketergantungan sangat kuat",
+        "gangguan pernapasan"
+      ],
+      "peringatan": "Salah satu RC benzo paling kuat, overdosis sering terjadi meskipun dosis kecil."
+    },
+    {
+      "nama": "Bromazolam",
+      "kategori": "Designer Benzodiazepine",
+      "efek_jangka_pendek": [
+        "bingung",
+        "rileks berlebihan",
+        "gangguan keseimbangan"
+      ],
+      "efek_jangka_panjang": [
+        "ketergantungan",
+        "gangguan pengambilan keputusan",
+        "amnesia"
+      ],
+      "peringatan": "Sering ditemukan dalam pil palsu, efeknya bisa tidak terduga."
+    },
+    {
+      "nama": "Clonazolam",
+      "kategori": "Designer Benzodiazepine",
+      "efek_jangka_pendek": [
+        "kantuk ekstrem",
+        "hilang koordinasi",
+        "bahasa cadel"
+      ],
+      "efek_jangka_panjang": [
+        "amnesia berat",
+        "risiko ketergantungan tinggi",
+        "penurunan fungsi kognitif"
+      ],
+      "peringatan": "Potensinya sangat tinggi, risiko overdosis meningkat."
+    },
+    {
+      "nama": "Diclazepam",
+      "kategori": "Designer Benzodiazepine",
+      "efek_jangka_pendek": [
+        "relaksasi",
+        "sedasi",
+        "reaksi lambat"
+      ],
+      "efek_jangka_panjang": [
+        "ketergantungan",
+        "gangguan konsentrasi",
+        "penurunan memori"
+      ],
+      "peringatan": "Durasi efek panjang dan dapat menumpuk dalam tubuh."
+    }
+  ]
+}
